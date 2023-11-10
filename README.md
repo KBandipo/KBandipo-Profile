@@ -10,3 +10,18 @@
     An aspiring <b>Frontend Software Developer,</b>&nbsp; <br>
   <b><i>"---I love the Process of my Growth---"</i></b>
 </p>
+
+---
+
+<h3>Little facts about me 🧑</h3>
+
+- 🧞 I'm a Tech Enthusiast.
+- 🔭 I’m currently into Frontend Web Development.
+- 🌱 I’m currently learning React and JavaScript
+- 🤔 I’m looking for help with internship with any Tech organization that would add to my growth
+- 😄 Pronouns: <b>We/Ours</b>
+- ⚡ Fun fact: I love music, I play the piano and the guitar and I teach the Word
+
+  <br>
+
+---
