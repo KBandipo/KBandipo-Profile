@@ -1,59 +1,62 @@
-<h1 color="#ffd900" align="center">Hi 👋, I am Bandipo, Kehinde</h1>
+<h1 align="center" style="color:#ffd900">Hi 👋, I am Bandipo, Kehinde</h1>
 
-<p  align="center" >
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD900&random=false&width=435&lines=Hey!+Welcome+to+my+Profile;+I+am+a+Frontend+Software+Developer" alt="Typing SVG" /></a>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD900&random=false&width=435&lines=Hey!+Welcome+to+my+Profile;+I+am+a+Frontend+Software+Developer" alt="Typing SVG" />
+  </a>
 </p>
 
 <p align="center">
   <em>
-    <b>Bandipo Kehinde</b>, a graduate of <b>Electronic and Electrical Engineering</b> from <a style= "color:gold" href="https://www.lautech.edu.ng/"> <b>Ladoke Akintola University of Technology</b>, Ogbomoso, Oyo state</a>.
+    <b>Bandipo Kehinde</b>, a graduate of <b>Electronic and Electrical Engineering</b> from <a style="color:gold" href="https://www.lautech.edu.ng/"> <b>Ladoke Akintola University of Technology</b>, Ogbomoso, Oyo state</a>.
     An aspiring <b>Frontend Software Developer,</b>&nbsp; <br>
-  <b><i>"---I'm open, I'm not fixed. I love the Process of my Growth---"</i></b>
+    <b><i>"---I'm open, I'm not fixed. I love the Process of my Growth---"</i></b>
+  </em>
 </p>
 
 ---
 
-<h3>Little facts about me 🧑</h3>
+### Little facts about me 🧑
 
 - 🧞 I'm a Tech Enthusiast.
 - 🔭 I’m currently into Frontend Web Development.
-- 🌱 I’m currently learning React and JavaScript
-- 🤔 I’m looking for help with internship with any Tech organization that would add to my growth
+- 🌱 I’m currently learning React and JavaScript.
+- 🤔 I’m looking for help with an internship with any Tech organization that would add to my growth.
 - 😄 Pronouns: <b>We/Ours</b>
-- ⚡ Fun fact: I love music, I play the piano and the guitar and I teach the Word
-
-  <br>
+- ⚡ Fun fact: I love music, I play the piano and the guitar, and I teach the Word.
 
 ---
 
 ## SOCIAL MEDIA PROFILES
 
-  </hr>
-  <a href="https://www.linkedin.com/in/bandipo-kehinde-3b0434270/">
-   <img align="left" alt=" Bandipo Kehinde | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
-  </a>
-  <a href="keneebandipo@gmail.com">
-    <img align="left" alt="Bandipo Kehinde | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
-  </a>
-  <a href="https://twitter.com/Bandipokenny">
-    <img align="left" alt="Bandipo Kehinde| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
-  </a>
-   <a href="https://web.facebook.com/bandipo.kehinde">
-    <img align="left" alt="Bandipo Kehinde| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
-  </a>
-   <a href="https://github.com/KBandipo">
-    <img align="left" alt="Bandipo Kehinde| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
-  </a>
-  <br>
-  <br>
+<a href="https://www.linkedin.com/in/bandipo-kehinde-3b0434270/">
+  <img align="left" alt=" Bandipo Kehinde | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+</a>
+<a href="keneebandipo@gmail.com">
+  <img align="left" alt="Bandipo Kehinde | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+</a>
+<a href="https://twitter.com/Bandipokenny">
+  <img align="left" alt="Bandipo Kehinde| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+</a>
+<a href="https://web.facebook.com/bandipo.kehinde">
+  <img align="left" alt="Bandipo Kehinde| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+</a>
+<a href="https://github.com/KBandipo">
+  <img align="left" alt="Bandipo Kehinde| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+</a>
+
+<br>
+<br>
 
 ---
 
 <summary>
   ✨ Tech stack currently using:
 </summary>
-   <br>
-<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code><code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
+<br>
+
+<code><a href="https://reactjs.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></a></code>
+<code><a href="https://www.javascript.com/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"></a></code>
 <code> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" height="30"/> </a> </code>
 <code><a href="https://www.w3schools.com/html/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg"></a></code>
 <code><a href="https://www.w3schools.com/css/" target="_blank"><img height="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"></a></code>
@@ -61,12 +64,13 @@
 
 <br>
 <br>
+
 <details>
 <summary>
 🌱 Tech stack looking forward to learn:
-
 </summary>
-   <br>
+<br>
+
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
 <code><a href="https://nextjs.org/" target="_blank"><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg/120px-Cib-next-js_%28CoreUI_Icons_v1.0.0%29.svg.png"></a></code>
 <code><a href="https://redux.js.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" height="30"></a></code>
@@ -89,7 +93,8 @@
  📔 GitHub Stats:
 </summary>
 <br>
-p<p align="center">
+
+<p align="center">
   <a href="https://github.com/KBandipo">
     <img align="center"  height="175px" src="https://github-readme-stats.vercel.app/api?username=KBandipo&show_icons=true&hide_border=true&title_color=94b4a4&amp&icon_color=FFFFFF&amp&text_color=FFFFFF&amp&bg_color=000000&count_private=true&include_all_commits=true"/>
   </a>
