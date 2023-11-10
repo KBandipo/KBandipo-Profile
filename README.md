@@ -60,10 +60,11 @@
 <code><a href="https://git-scm.com/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></a></code>
 
 <br>
-
+<br>
 <details>
 <summary>
-  🌱 Tech stack looking forward to learn:
+🌱 Tech stack looking forward to learn:
+
 </summary>
    <br>
 <code><a href="https://www.python.org/" target="_blank"><img height="30" src="https://www.vectorlogo.zone/logos/python/python-icon.svg"></a></code>
