@@ -105,3 +105,6 @@ p<p align="center">
 ## STATUS REPORT:
 
 ## [![Status badge](https://img.shields.io/badge/HIRING_STATUS-AVAILABLE-<COLOR>.svg)](https://shields.io/)
+
+<p align="right" > Created with 🖤 by <a href="https://github.com/KBandipo">KBandipo</a></p>
+<p align="right" > <img src="https://komarev.com/ghpvc/?username=KBandipo&label=Profile%20views&color=0e75b6&style=flat" alt="KBandipo" /> </p>
