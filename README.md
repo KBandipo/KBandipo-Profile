@@ -1,5 +1,7 @@
 <h1 style= "color:gold" align="center">Hi 👋, I am Bandipo, Kehinde</h1>
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD900&random=false&width=435&lines=Welcome+to+my+Profile%2C+I+am+a+Frontend+Software+Developer)](https://git.io/typing-svg)
+
 <p  align="center" >
 <a  href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFD900&random=false&width=435&lines=Hey! Welcome+to+my+ profile;I'm+a+Frontend+Software+Developer" alt="Typing SVG" /></a>
 </p>
