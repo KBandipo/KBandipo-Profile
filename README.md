@@ -25,3 +25,26 @@
   <br>
 
 ---
+
+## SOCIAL MEDIA PROFILES
+
+  </hr>
+  <a href="https://www.linkedin.com/in/bandipo-kehinde-3b0434270/">
+   <img align="left" alt=" Bandipo Kehinde | Linkedin" width="24px" src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" />
+  </a>
+  <a href="keneebandipo@gmail.com">
+    <img align="left" alt="Bandipo Kehinde | Gmail" width="26px" src="https://www.vectorlogo.zone/logos/gmail/gmail-icon.svg" />
+  </a>
+  <a href="https://twitter.com/Bandipokenny">
+    <img align="left" alt="Bandipo Kehinde| Twitter" width="26px" src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" />
+  </a>
+   <a href="https://web.facebook.com/bandipo.kehinde">
+    <img align="left" alt="Bandipo Kehinde| Facebook" width="26px" src="https://www.vectorlogo.zone/logos/facebook/facebook-tile.svg" />
+  </a>
+   <a href="https://github.com/KBandipo">
+    <img align="left" alt="Bandipo Kehinde| Github" width="26px" src="https://www.vectorlogo.zone/logos/github/github-tile.svg" />
+  </a>
+  <br>
+  <br>
+
+---
