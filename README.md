@@ -1,1 +1,1 @@
-<h1 align="center">Hi 👋, I am Bandipo, Kehinde</h1>
+<h1 style= "color:gold" align="center">Hi 👋, I am Bandipo, Kehinde</h1>
