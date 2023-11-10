@@ -101,3 +101,7 @@ p<p align="center">
 ## <a href="https://github.com/KBandipo"><img src="https://github-readme-streak-stats.herokuapp.com/?user=KBandipo&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
 ---
+
+## STATUS REPORT:
+
+## [![Status badge](https://img.shields.io/badge/HIRING_STATUS-AVAILABLE-<COLOR>.svg)](https://shields.io/)
